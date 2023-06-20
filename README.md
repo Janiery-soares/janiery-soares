@@ -5,11 +5,17 @@ Janiery soares 💎📱💻 Programacao
 - 🌱 cursando back-ende ...
 - ⚡ Fun fact: tecnologia e outras areas.
 - 🛠 Fabricante de moveis planejados.
+
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=janiery-soares&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=janiery-soares&layout-compact&langs_count16&theme=dark)
+
+##
+
 <div style="exibição: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="janiery-soares-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="janiery-soares-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="janiery-soares-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="janiery-soares-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
   
   ##
@@ -22,4 +28,4 @@ Janiery soares 💎📱💻 Programacao
   
 </Div>
 
-  ##
+  
